@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.0.11/HIPPO.Certificate.Generator_Setup_1.0.11.exe",
+  "version": "1.0.12",
+  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.0.12/CAYA.Certificate.Generator_Setup_1.0.12.exe",
   "release_notes": "Initial release of Certificate Generator",
   "min_required_version": "1.0.0"
 }
