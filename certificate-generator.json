@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.1.7/CAYA.Certificate.Generator_Setup_1.1.7.0.exe",
-  "release_notes": "Added English Regional award certificate templates for Teen Eagle competition. Fixed build packaging issue.",
+  "version": "1.1.8",
+  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.1.8/CAYA.Certificate.Generator_Setup_1.1.8.0.exe",
+  "release_notes": "TE English Regional award cert templates. Stable build with pinned dependencies.",
   "min_required_version": "1.0.0"
 }
