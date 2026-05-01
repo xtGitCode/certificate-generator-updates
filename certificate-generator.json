@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.1.9/CAYA.Certificate.Generator_Setup_1.1.9.0.exe",
-  "release_notes": "TE English Regional award cert templates. Fixed pytz metadata bundling.",
+  "version": "1.2.0",
+  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.2.0/CAYA.Certificate.Generator_Setup_1.2.0.0.exe",
+  "release_notes": "Fix English Regional certificate positions to match Math Regional certificates.",
   "min_required_version": "1.0.0"
 }
