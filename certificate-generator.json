@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.2.3/CAYA.Certificate.Generator_Setup_1.2.3.0.exe",
-  "release_notes": "Fix English Regional certificate positions to match Math Regional certificates.",
+  "version": "1.2.4",
+  "download_url": "https://github.com/xtGitCode/certificate-generator-updates/releases/download/v1.2.4/CAYA.Certificate.Generator_Setup_1.2.4.0.exe",
+  "release_notes": "ESB Grand Final ver.",
   "min_required_version": "1.0.0"
 }
